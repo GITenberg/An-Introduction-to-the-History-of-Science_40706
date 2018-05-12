@@ -1,0 +1,39 @@
+_repo: An-Introduction-to-the-History-of-Science_40706
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Libby, Walter
+    birthdate: 1867
+    gutenberg_agent_id: '40772'
+    url: http://www.gutenberg.org/2009/agents/40772
+description: ''
+gutenberg_issued: '2012-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40706'
+  lccn: '17008227'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- History'
+- !lcc 'Q'
+tableOfContents: 'Science and practical needs: Egypt and Babylonia -- The influence
+  of abstract thought: Greece: Aristotle -- Scientific theory subordinated to application:
+  Rome: Vitruvius -- The continuity of science: the medieval church and the Arabs
+  -- The classification of the sciences: Francis Bacon -- Scientific method: Gilbert,
+  Galileo, Harvey, Descartes -- Science as measurement: Tycho Brahe, Kepler, Boyle
+  -- Coöperation in science: the Royal Society -- Science and the struggle for liberty:
+  Benjamin Franklin -- The interaction of the sciences: Werner, Hutton, Black, Hall,
+  William Smith -- Science and religion: Kant, Lambert, Laplace, Sir William Herschel
+  -- The reign of law: Dalton, Joule -- The scientist: Sir Humphry Davy -- Scientific
+  prediction: the discovery of Neptune -- Science and travel: the voyage of the Beagle
+  -- Science and war: Pasteur, Lister -- Science and invention: Langley''s aeroplane
+  -- Scientific hypothesis: radioactive substances -- The scientific imagination --
+  Science and democratic culture.'
+title: An Introduction to the History of Science
+url: http://www.gutenberg.org/ebooks/40706
